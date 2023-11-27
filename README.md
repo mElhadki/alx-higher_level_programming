@@ -4,15 +4,7 @@ Welcome to Pythonic Funland, where coding meets laughter and joy! This project i
 
 ## 🚀 Quick Start
 
-Get ready to embark on a journey of Pythonic fun! Follow these steps:
+Get ready to embark on a journey of Pythonic fun! 
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/pythonic-funland.git
 
-# Navigate to the project directory
-cd pythonic-funland
-
-# Install the laughter module (just kidding, there's no laughter module... yet!)
-pip install -r requirements.txt
 
